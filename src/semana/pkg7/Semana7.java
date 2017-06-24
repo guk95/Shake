@@ -23,7 +23,7 @@ public class Semana7 {
         lista.add(5);
         lista.add(6);
         System.out.println(lista.toString());
-        lista.shake(5);
+        lista.shake(6);
         System.out.println(lista.toString());
 
     }

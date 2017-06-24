@@ -33,7 +33,5 @@ public class Nodo {
     public void setAnt(Nodo ant) {
         this.ant = ant;
     }
-    
-    
 
 }
